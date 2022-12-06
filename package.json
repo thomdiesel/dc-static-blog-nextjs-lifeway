@@ -134,7 +134,7 @@
     "next": "^9.4.4",
     "nextjs-sitemap-generator": "^1.1.0",
     "promise.allsettled": "^1.0.2",
-    "qs": "^6.9.4",
+    "qs": "^6.9.7",
     "react": "^16.13.1",
     "react-cookie-consent": "^5.0.1",
     "react-dom": "^16.13.1",
